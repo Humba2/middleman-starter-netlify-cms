@@ -1,5 +1,4 @@
 nav_items: 
-  - {label: 'Home', path: '/'}
   - {label: 'About Us', path: '/aboutus'}
   - {label: 'Products', path: '/products/'}
   - {label: 'Contact', path: '/contact'}
